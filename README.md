@@ -35,4 +35,4 @@ Real-Time Communication System Powered by AI for Specially Abled
 𝐅𝐚𝐜𝐮𝐥𝐭𝐲 𝐌𝐞𝐧𝐭𝐨𝐫(𝐬) 𝐍𝐚𝐦𝐞   : GEETHA G
 
 #**📟Empathy Map:**
-! [Image](https://github.com/IBM-EPBL/IBM-Project-4463-1658732945/blob/main/ideation%20phase/Empathy%20Map%20Canvas.pdf)
+! [Image](https://github.com/IBM-EPBL/IBM-Project-52118-1660989503)
